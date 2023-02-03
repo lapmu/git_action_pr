@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-15-lapmu \
             --delete
-        working-directory: ./my-agora-states-server
+        working-directory: ./my-agora-states-client
